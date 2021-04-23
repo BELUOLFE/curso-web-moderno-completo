@@ -5,7 +5,7 @@ isAtivo = true
 console.log(isAtivo)
 
 isAtivo = 1
-cosnsole.log(!!isAtivo)
+console.log(!!isAtivo)
 
 console.log('os verdadeiros...')
 console.log(!!3)
@@ -30,5 +30,5 @@ console.log(!!('' || null || 0 || ' '))
 
 let nome = ''
 
-cosnsole.log(nome || 'Desconhecido')
+console.log(nome || 'Desconhecido')
 
