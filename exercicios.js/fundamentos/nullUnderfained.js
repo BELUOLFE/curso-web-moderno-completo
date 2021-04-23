@@ -19,4 +19,4 @@ console.log(produto)
 
 produto.preco = null //sem preco
 console.log(!!produto.preco)
-console.log(produto)
+console.log(produto)f
