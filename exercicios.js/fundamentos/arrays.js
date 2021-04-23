@@ -1,4 +1,4 @@
-const valores = [7.9, 8.9, 6.3, 9.2,]
+const valores = [7.9, 8.9, 6.3, 9.2, 10,2]
 console.log(valores[0], valores[3])
 console.log(valores[4])
 
