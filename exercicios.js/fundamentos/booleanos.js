@@ -30,5 +30,5 @@ console.log(!!('' || null || 0 || ' '))
 
 let nome = ''
 
-cosnsole.log(nome || 'Desconhecido')
+cosnsole.log(nome || 'Desconhecido')F
 
