@@ -20,6 +20,7 @@ const imprimirResultado = function (nota) {
 
 imprimirResultado(10)
 imprimirResultado(8.9)
+imprimirResultado(6.0)
 imprimirResultado(2.3)
 imprimirResultado(2.9)
 imprimirResultado(-1)
