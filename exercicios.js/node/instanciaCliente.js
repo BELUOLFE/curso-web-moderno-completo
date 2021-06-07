@@ -1,9 +1,9 @@
-const contadorA = required('./instanciaUnica')
-const contadorB = required('./instanciaUnica')
+const contadorA = require('./instanciaUnica')
+const contadorB = require('./instanciaUnica')
 
-const contadorC = required('./instanciaNova')()
-const contadorD = required('./instanciaNova')()
+const contadorC = require('./instanciaNova')()
+const contadorD = require('./instanciaNova')()
 
 contadorA.inc()
 contadorA.inc()
-console.log(contadorB.valor)
+console.log(contadorA.valor, contadorB.valor)
